@@ -4,3 +4,7 @@
 *.log
 *.bak
 indicaciones.info
+disk/
+build/
+.DS_Store
+EOT
